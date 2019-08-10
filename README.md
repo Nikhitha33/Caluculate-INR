@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int X,P;
+int X,P,count=0;
 scanf("%d%d",&X,&P);
 while(X>0)
   {
